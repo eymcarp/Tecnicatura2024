@@ -32,7 +32,26 @@ Secuencias de escape
 
 Operador de Aumento
 ++
+Ejemplo: Let z = ++a; / Preincremento
+Ejemplo: z = a++ // PosIncremento
 Operador de decremento
 --
+Ejemplo: Let z = --a; /PreDecremento
+Ejemplo: z = a--; //PosDecremento
+
+Operador Distinto, Diferente (Boolean)
+!= Comprueba valores sin revisar el tipo
+!== compureba el valor y tambien el tipo
+
+Operadores Relacionales (Boolean)
+<
+>
+<=
+>=
+Operadores Logicos
+And -> && Doble Aspersan
+Or ->
+
+
 
 
